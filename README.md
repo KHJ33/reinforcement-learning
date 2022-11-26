@@ -2,17 +2,9 @@
 
 --------------------------------------------------------------------------------
 
-> 파이썬과 케라스로 배우는 강화학습 개정판의 코드입니다.
->
-> Maintainers - [이웅원](https://github.com/dnddnjs), [양혁렬](https://github.com/Hyeokreal)
-
-[Pull Request](https://github.com/rlcode/reinforcement-learning-kr-v2/pulls)는 언제든 환영입니다.
-문제나 버그, 혹은 궁금한 사항이 있으면 [이슈](https://github.com/rlcode/reinforcement-learning-kr-v2/issues)에 글을 남겨주세요.
-
-
 ## 필요한 라이브러리들 (Dependencies)
-1. Python 3.6
-2. Tensorflow 2.1.0
+1. Python 3.7
+2. Tensorflow 2.11.0
 3. numpy 1.17.0
 4. gym 0.16.0
 5. pillow 6.1.0
